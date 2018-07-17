@@ -13,5 +13,9 @@ namespace TP1 {
         public Form1() {
             InitializeComponent();
         }
+
+        private void OpenForm2_Click(object sender, EventArgs e) {
+            Form2 f = new Form2(); f.Show();
+        }
     }
 }
