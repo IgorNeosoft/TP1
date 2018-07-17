@@ -41,7 +41,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Nom :";
+            this.label1.Text = "Nom2 :";
             // 
             // Form1
             // 
@@ -51,7 +51,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Text = "TP1";
+            this.Text = "TP1V3";
             this.ResumeLayout(false);
             this.PerformLayout();
 
