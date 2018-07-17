@@ -50,7 +50,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
-            this.Name = "Form1";
+            this.Name = "Form1 V4";
             this.Text = "TP1V3";
             this.ResumeLayout(false);
             this.PerformLayout();
